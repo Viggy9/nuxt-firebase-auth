@@ -1,5 +1,13 @@
 # firebase
 
+Checkout the Webapp on https://test-9399a.firebaseapp.com/
+Used Firebase Hosting to deploy seamlessly.
+To Use Firebase Hosting : 
+1) Install Firebase CLI 
+2) Select Hosting from CLI features
+3) Build your code and put the path in firebase.json as dist directory - where build is present.
+4) firebase deploy 
+
 ## Build Setup
 
 ```bash
